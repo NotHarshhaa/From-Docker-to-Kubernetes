@@ -9,10 +9,12 @@
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
-  [Website](https://dockertokubernetes.site) • [Documentation](https://dockertokubernetes.site/getting-started/introduction) • [Community](https://t.me/prodevopsguy)
+  [Website](https://dockertokubernetes.live) • [Documentation](https://dockertokubernetes.live/getting-started/introduction) • [Community](https://t.me/prodevopsguy)
 </div>
 
 ## 🚀 About The Project
+
+![banner](./public/banner.png)
 
 **From Docker to Kubernetes** is a comprehensive, hands-on learning platform designed to help developers and DevOps engineers master containerization and orchestration technologies. Our platform provides a structured learning path from Docker basics to advanced Kubernetes deployments, all completely free and open source.
 
@@ -111,7 +113,7 @@ Check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 - [GitHub](https://github.com/NotHarshhaa)
 - [LinkedIn](https://linkedin.com/in/harshhaa-vardhan-reddy)
 - [Telegram](https://t.me/NotHarshhaa)
-- [Website](https://link.notharshhaa.site)
+- [Website](https://prodevopsguytech.com)
 
 ## ❤️ Support
 
