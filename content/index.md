@@ -6,9 +6,9 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'v1.0 (beta) release'
-  icon: '🚀'
-  to: '/blog/v1'
+  title: 'v1.1.0 stable release'
+  icon: 'lucide:sparkles'
+  to: '/blog/v1-1'
 actions:
   - name: Get Started
     to: /getting-started/introduction
