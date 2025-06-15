@@ -6,9 +6,9 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'v1.1.0 now available'
+  title: 'v1.2.0 now available'
   icon: 'lucide:sparkles'
-  to: '/blog/v1-1'
+  to: '/blog/v1-2'
 actions:
   - name: Get Started
     to: /getting-started/introduction

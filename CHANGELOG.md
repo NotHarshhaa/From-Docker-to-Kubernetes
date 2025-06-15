@@ -5,6 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2024-06-15
+
+### Added
+
+#### Docker Section
+- Added Registry & Distribution guide covering public and private registries
+- Added Docker Optimization techniques for images and runtime performance
+- Added comprehensive Monitoring & Logging strategies for Docker environments
+- Added CI/CD Integration documentation for container-based pipelines
+
+#### Kubernetes Section
+- Added Service Mesh & Ingress controllers guide with Istio and NGINX examples
+- Added Autoscaling & Resource Management documentation with HPA, VPA, and Cluster Autoscaler
+- Added Operators & CRDs guide covering custom resources and the operator pattern
+- Added Deployment Strategies documentation for blue/green, canary, and A/B testing
+
+### Enhanced
+- Updated Introduction with comprehensive topic listing
+- Improved MDX styling with interactive components
+- Added more detailed examples and diagrams
+- Enhanced cross-referencing between related topics
+
 ## [1.1.0] - 2024-06-12
 
 ### Added
