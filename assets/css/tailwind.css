@@ -55,7 +55,7 @@
     --ring:221.2 83.2% 53.3%;
     --radius: 0.5rem;
   }
-   
+
   .dark {
     --background:222.2 84% 4.9%;
     --foreground:210 40% 98%;
@@ -94,5 +94,12 @@
 
   body {
     @apply bg-background text-foreground;
+  }
+}
+
+@layer components {
+  /* Make the 3rd hero action button full-width on mobile */
+  .hero [data-actions] > *:nth-child(3) {
+    @apply w-full sm:w-auto;
   }
 }
