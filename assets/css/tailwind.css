@@ -5,6 +5,14 @@
 @source '../../node_modules/shadcn-docs-nuxt';
 
 @layer base {
+  html {
+    @apply overflow-x-hidden;
+  }
+  
+  body {
+    @apply overflow-x-hidden min-h-screen;
+  }
+
   *,
   ::after,
   ::before,

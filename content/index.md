@@ -13,10 +13,6 @@ actions:
   - name: Get Started
     to: /getting-started/introduction
     leftIcon: 'lucide:rocket'
-  - name: GitHub
-    variant: outline
-    to: https://github.com/NotHarshhaa
-    leftIcon: 'lucide:github'
   - name: View Source
     variant: destructive
     to: https://github.com/NotHarshhaa/From-Docker-to-Kubernetes

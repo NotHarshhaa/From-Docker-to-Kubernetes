@@ -118,9 +118,14 @@ export default defineAppConfig({
     },
     aside: {
       useLevel: true,
-      collapse: false,
+      collapse: true,
       collapseLevel: 1,
       folderStyle: "default",
+      mobile: {
+        enabled: true,
+        placement: "left",
+        initialState: "collapsed"
+      }
     },
     main: {
       breadCrumb: true,
