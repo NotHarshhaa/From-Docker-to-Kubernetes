@@ -120,7 +120,7 @@ export default defineAppConfig({
       useLevel: true,
       collapse: true,
       collapseLevel: 1,
-      folderStyle: "default",
+      folderStyle: "group",
       mobile: {
         enabled: true,
         placement: "left",
