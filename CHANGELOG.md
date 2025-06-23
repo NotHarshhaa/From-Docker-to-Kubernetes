@@ -5,7 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.2.0] - 2024-06-15
+## [1.3.0] - 2025-06-23
+
+### Added
+
+#### Docker Section
+- Added Multi-Architecture Builds guide with BuildKit and CI/CD integration
+- Added Docker Desktop & Development Environments documentation with workflow optimization
+- Added Docker Swarm for Orchestration covering native clustering capabilities
+
+#### Kubernetes Section
+- Added GitOps with Kubernetes guide featuring Flux CD and ArgoCD implementations
+- Added Multi-Cluster Management approaches for complex Kubernetes environments
+- Added Cloud Native Security comprehensive framework with the 4C's security model
+
+### Enhanced
+- Added new blog post announcing v1.3.0 release features
+- Improved code examples with real-world production scenarios
+- Added advanced diagrams for complex workflows
+- Expanded troubleshooting sections for all new topics
+
+## [1.2.0] - 2025-06-15
 
 ### Added
 
@@ -27,7 +47,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added more detailed examples and diagrams
 - Enhanced cross-referencing between related topics
 
-## [1.1.0] - 2024-06-12
+## [1.1.0] - 2025-06-12
 
 ### Added
 

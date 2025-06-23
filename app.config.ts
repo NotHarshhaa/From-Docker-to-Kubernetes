@@ -45,7 +45,7 @@ export default defineAppConfig({
           links: [
             {
               title: "Getting Started",
-              to: "/getting-started",
+              to: "/getting-started/introduction",
               description:
                 "A hands-on learning open source learning platform to help you master containerization and orchestration with Docker to Kubernetes.",
               icon: "lucide:rocket",

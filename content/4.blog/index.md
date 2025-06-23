@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/v1-2
-title: from-docker-to-kubernetes v1.2.0 released!
+to: /blog/v1-3
+title: from-docker-to-kubernetes v1.3.0 released!
 ---
 
 #title
@@ -20,6 +20,21 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+  ::card
+  ---
+  img: /blog/v1-3.png
+  to: /blog/v1-3
+  ---
+
+  #title
+  From Docker to Kubernetes v1.3.0 release
+
+  #description
+  Advanced enterprise features with multi-architecture builds, GitOps, and cloud-native security.
+
+  #footer
+  Jul 10, 2024
+  ::
   ::card
   ---
   img: /blog/v1-2.png

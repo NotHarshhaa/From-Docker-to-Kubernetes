@@ -6,9 +6,9 @@ navigation: false
 ::hero{class="py-12 md:py-16 lg:py-20"}
 ---
 announcement:
-  title: 'v1.2.0 now available'
+  title: 'v1.3.0 now available'
   icon: 'lucide:sparkles'
-  to: '/blog/v1-2'
+  to: '/blog/v1-3'
   class: 'animate-pulse-slow'
 actions:
   - name: Get Started
