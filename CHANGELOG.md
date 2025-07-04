@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.0] - 2025-07-04
+
+### Added
+
+#### Docker Section
+- Added Docker Extensions guide covering the extensions ecosystem and custom extension development
+- Added Docker Buildx documentation with multi-architecture builds and advanced caching strategies
+- Added Docker Contexts for managing multiple Docker environments and remote connections
+
+#### Kubernetes Section
+- Added API Priority and Fairness (APF) guide for managing API server request flows
+- Added Job and CronJob Enhancements documentation covering indexed jobs and pod failure policies
+- Added Gateway API for advanced traffic routing beyond traditional Ingress resources
+
+### Enhanced
+- Added new blog post announcing v1.4.0 release features
+- Improved integration examples between Docker and Kubernetes workflows
+- Added detailed migration paths for legacy configurations
+- Enhanced troubleshooting guidance with common scenarios
+
 ## [1.3.0] - 2025-06-23
 
 ### Added
