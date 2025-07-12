@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/v1-4
-title: from-docker-to-kubernetes v1.4.0 released!
+to: /blog/v1-5
+title: from-docker-to-kubernetes v1.5.0 released!
 ---
 
 #title
@@ -20,6 +20,22 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+  ::card
+  ---
+  img: /blog/v1-5.png
+  to: /blog/v1-5
+  ---
+
+  #title
+  From Docker to Kubernetes v1.5.0 release
+
+  #description
+  Advanced security and enterprise operations with Cost Optimization, Backup & Disaster Recovery, and Policy Management.
+
+  #footer
+  Jul 12, 2025
+  ::
+
   ::card
   ---
   img: /blog/v1-4.png
@@ -33,7 +49,7 @@ Read the latest articles and news about this open source learning platform.
   Advanced tooling and APIs with Docker Extensions, Buildx, Contexts, and Gateway API.
 
   #footer
-  Jul 25, 2024
+  Jul 4, 2025
   ::
 
   ::card

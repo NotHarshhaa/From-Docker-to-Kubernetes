@@ -5,6 +5,29 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2025-07-12
+
+### Added
+
+#### Docker Section
+- Added Content Trust & Image Signing guide for secure software supply chains
+- Added Docker for AI/ML Workloads covering containerization strategies for machine learning
+- Added Docker in Edge Computing explaining deployment patterns for edge environments
+- Added Docker Plugins & Runtime Extensions for extending Docker's functionality
+
+#### Kubernetes Section
+- Added Cost Optimization & FinOps guide with resource management and chargeback models
+- Added Backup & Disaster Recovery documentation covering etcd, PV backups, and recovery strategies
+- Added Policy Management with OPA guide featuring Gatekeeper implementation and compliance reporting
+
+### Enhanced
+- Added new blog post announcing v1.5.0 release features
+- Improved examples for real-world production deployments
+- Added advanced security considerations across all topics
+- Enhanced troubleshooting sections with practical solutions
+- Expanded Kubernetes documentation with enterprise-focused topics
+- Added comprehensive examples and implementation guides
+
 ## [1.4.0] - 2025-07-04
 
 ### Added
