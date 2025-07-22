@@ -5,6 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2025-07-22
+
+### Added
+
+#### Docker Section
+- Added Docker Caching Strategies guide with advanced techniques and real-world examples
+- Added Docker Storage Drivers documentation covering types, configuration, and performance optimization
+- Added Docker Resource Management covering CPU, memory, storage, and network allocation
+
+#### Kubernetes Section
+- Added StatefulSets & DaemonSets guide for managing stateful applications and node-level daemons
+- Added Advanced Scheduling & Affinity documentation covering node/pod affinity and complex scheduling
+- Added Kubernetes Multi-tenancy guide with isolation models and security considerations
+
+### Enhanced
+- Added new blog post announcing v1.6.0 release features
+- Improved code examples with production-grade configurations
+- Enhanced troubleshooting sections with practical solutions
+- Added comprehensive diagrams for complex concepts
+- Expanded security considerations across all new topics
+
 ## [1.5.0] - 2025-07-12
 
 ### Added

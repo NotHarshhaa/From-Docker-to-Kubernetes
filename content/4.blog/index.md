@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/v1-5
-title: from-docker-to-kubernetes v1.5.0 released!
+to: /blog/8.v1-7
+title: from-docker-to-kubernetes v1.7.0 released!
 ---
 
 #title
@@ -20,6 +20,22 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+  ::card
+  ---
+  img: /blog/v1-6.png
+  to: /blog/v1-6
+  ---
+
+  #title
+  From Docker to Kubernetes v1.6.0 release
+
+  #description
+  Advanced Docker caching, storage drivers, resource management, StatefulSets, scheduling, and multi-tenancy guides.
+
+  #footer
+  Jul 22, 2025
+  ::
+
   ::card
   ---
   img: /blog/v1-5.png
