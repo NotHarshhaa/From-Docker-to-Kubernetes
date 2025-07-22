@@ -5,6 +5,27 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.0] - 2025-08-05
+
+### Added
+
+#### Docker Section
+- Added Docker for Edge Computing guide covering architecture, container optimization, and industry use cases
+- Added Docker Security Scanning and Vulnerability Management covering comprehensive security practices
+- Added Docker Database Containerization documentation with best practices for various database systems
+
+#### Kubernetes Section
+- Added Kubernetes Event-Driven Autoscaling (KEDA) guide for advanced scaling based on external metrics
+- Added Kubernetes FinOps and Cost Management documentation for optimizing cloud spend
+- Added Kubernetes GitOps with Flux and ArgoCD covering declarative infrastructure management
+
+### Enhanced
+- Added new blog post announcing v1.8.0 release features
+- Improved production examples for edge computing and database containerization
+- Enhanced cost optimization and resource management guidance
+- Added comprehensive implementation examples for GitOps workflows
+- Expanded security considerations for containerized databases
+
 ## [1.7.0] - 2025-07-28
 
 ### Added

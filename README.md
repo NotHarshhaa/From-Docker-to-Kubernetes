@@ -179,13 +179,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📅 Latest Updates
 
-Our latest release (v1.7.0) includes:
-- **Docker Caching Strategies**: Advanced build optimization techniques
-- **Docker Storage Drivers**: Deep dive into storage options and performance
-- **Resource Management**: CPU, memory, and network allocation controls
-- **StatefulSets & DaemonSets**: Managing stateful applications and node daemons
-- **Advanced Scheduling & Affinity**: Complex workload placement strategies
-- **Kubernetes Multi-tenancy**: Isolation models and security considerations
+Our latest release (v1.8.0) includes:
+- **Docker for Edge Computing**: Deployment patterns and optimization for edge environments
+- **Security Scanning & Vulnerability Management**: Comprehensive security practices for Docker containers
+- **Database Containerization**: Best practices for containerizing various database systems
+- **Event-Driven Autoscaling (KEDA)**: Advanced Kubernetes scaling based on external metrics
+- **FinOps & Cost Management**: Optimizing Kubernetes cloud spend and implementing chargeback
+- **GitOps with Flux and ArgoCD**: Declarative infrastructure management for Kubernetes
 
 [View the full changelog](https://dockertokubernetes.live/getting-started/changelog)
 

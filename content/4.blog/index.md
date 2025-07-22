@@ -22,6 +22,22 @@ Read the latest articles and news about this open source learning platform.
 ::card-group{cols=3}
   ::card
   ---
+  img: /blog/v1-8.png
+  to: /blog/v1-8
+  ---
+
+  #title
+  From Docker to Kubernetes v1.8.0 release
+
+  #description
+  Edge computing, security scanning, database containerization, event-driven autoscaling, FinOps, and GitOps.
+
+  #footer
+  Aug 5, 2025
+  ::
+
+  ::card
+  ---
   img: /blog/v1-7.png
   to: /blog/v1-7
   ---
