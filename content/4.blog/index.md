@@ -22,6 +22,22 @@ Read the latest articles and news about this open source learning platform.
 ::card-group{cols=3}
   ::card
   ---
+  img: /blog/v1-7.png
+  to: /blog/v1-7
+  ---
+
+  #title
+  From Docker to Kubernetes v1.7.0 release
+
+  #description
+  Docker WebAssembly, Telepresence remote development, and Kubernetes for AI/ML workloads.
+
+  #footer
+  Jul 28, 2025
+  ::
+
+  ::card
+  ---
   img: /blog/v1-6.png
   to: /blog/v1-6
   ---
