@@ -5,7 +5,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.0] - 2025-08-12
+
+### Added
+
+#### Docker Section
+- Added Docker Observability Platforms guide covering monitoring, logging, tracing, and advanced observability practices
+- Added Docker Service Discovery & DNS documentation with comprehensive networking and service location strategies
+- Added Docker Secrets Management guide covering secure storage and distribution of sensitive information
+
+#### Kubernetes Section
+- Added Kubernetes Admission Controllers guide for implementing dynamic security policies and governance controls
+- Added Kubernetes Resource Requests & Limits documentation for optimizing compute resource allocation
+- Added Kubernetes Cluster API guide covering declarative infrastructure management for Kubernetes clusters
+
+### Enhanced
+- Added new blog post announcing v1.9.0 release features
+- Improved observability examples with production-grade implementation patterns
+- Enhanced service discovery documentation with multi-environment deployment strategies
+- Added comprehensive examples for admission controller implementations
+- Expanded resource management guidance with performance optimization techniques
+- Included detailed Cluster API provider-specific configurations
+
 ## [1.8.0] - 2025-08-05
+
 
 ### Added
 

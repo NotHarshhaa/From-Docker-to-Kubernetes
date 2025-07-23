@@ -6,9 +6,9 @@ navigation: false
 ::hero{class="py-12 md:py-20 lg:py-28 bg-gradient-to-br from-blue-50/80 via-indigo-50/80 to-purple-50/80 dark:from-blue-950/40 dark:via-indigo-950/40 dark:to-purple-950/40 rounded-3xl shadow-2xl transition-all duration-500 hover:shadow-blue-200/30 dark:hover:shadow-blue-500/10 hover:scale-[1.01] max-w-[90rem] xl:max-w-[100rem] 2xl:max-w-[120rem] mx-auto"}
 ---
 announcement:
-  title: 'v1.8.0 now available'
+  title: 'v1.9.0 now available'
   icon: 'lucide:sparkles'
-  to: '/blog/v1-8'
+  to: '/blog/v1-9'
   class: 'animate-pulse-slow'
 actions:
   - name: Get Started

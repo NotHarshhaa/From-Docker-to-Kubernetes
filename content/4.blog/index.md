@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/8.v1-7
-title: from-docker-to-kubernetes v1.7.0 released!
+to: /blog/10.v1-9
+title: from-docker-to-kubernetes v1.9.0 released!
 ---
 
 #title
@@ -20,6 +20,22 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+  ::card
+  ---
+  img: /blog/v1-9.png
+  to: /blog/v1-9
+  ---
+
+  #title
+  From Docker to Kubernetes v1.9.0 release
+
+  #description
+  Observability platforms, service discovery, secrets management, admission controllers, resource management, and Cluster API.
+
+  #footer
+  Aug 12, 2025
+  ::
+
   ::card
   ---
   img: /blog/v1-8.png
