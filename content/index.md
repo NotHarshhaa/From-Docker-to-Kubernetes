@@ -207,55 +207,159 @@ From Docker basics to Kubernetes production deployments, we've got you covered w
 
 ::div{class="my-12"}
   ::div{class="text-center mb-6"}
-    ::h2{class="flex items-center justify-center gap-2 text-xl font-bold"}
-      <i class="lucide-workflow text-blue-600 dark:text-blue-400 animate-float"></i>
-      Advanced Topics
+    ::h2{class="flex items-center justify-center gap-2 text-2xl font-bold"}
+      <i class="lucide-book-open text-blue-600 dark:text-blue-400 animate-float"></i>
+      Comprehensive Learning Path
     ::
   ::
 
-  ::div{class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6"}
-    ::card{icon="lucide:package" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
-    #title
-    Helm Charts
-    #description
-    Package, version, and deploy applications with Kubernetes' package manager. Create reusable application templates.
+  ::div{class="mb-12"}
+    ::h3{class="text-xl font-semibold mb-6 flex items-center gap-2"}
+      <i class="lucide-docker text-blue-500"></i>
+      Docker Learning Path
     ::
 
-    ::card{icon="lucide:wand-sparkles" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
-    #title
-    Operators & CRDs
-    #description
-    Extend Kubernetes capabilities with custom resources and automated operations for complex applications.
-    ::
+    ::div{class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"}
+      ::card{icon="lucide:box" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
+      #title
+      Containers & Images
+      #description
+      - Container Fundamentals & Lifecycle
+      - Image Building & Management
+      - Networking Concepts
+      - Volume Management
+      - Docker Compose Orchestration
+      ::
 
-    ::card{icon="lucide:webhook" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-violet-50/50 dark:hover:bg-violet-900/20"}
-    #title
-    Gateway API
-    #description
-    The next generation of Kubernetes networking with advanced routing, traffic splitting, and API management.
+      ::card{icon="lucide:shield" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
+      #title
+      Security & Distribution
+      #description
+      - Security Best Practices
+      - Registry & Distribution
+      - Content Trust & Image Signing
+      - Resource Management
+      - Storage Driver Optimization
+      ::
+
+      ::card{icon="lucide:settings" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
+      #title
+      Advanced Operations
+      #description
+      - CI/CD Integration
+      - Multi-architecture Builds
+      - Docker Desktop & Dev Environments
+      - Docker Swarm Orchestration
+      - Docker Extensions & Buildx
+      ::
+
+      ::card{icon="lucide:zap" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
+      #title
+      Performance & Monitoring
+      #description
+      - Optimization Techniques
+      - Monitoring & Logging
+      - Caching Strategies
+      - Resource Management
+      - Performance Tuning
+      ::
+
+      ::card{icon="lucide:cpu" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
+      #title
+      Specialized Workloads
+      #description
+      - AI/ML Containerization
+      - Edge Computing
+      - WebAssembly Support
+      - Plugins & Runtime Extensions
+      - Remote Development
+      ::
+
+      ::card{icon="lucide:tool" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-blue-50/50 dark:hover:bg-blue-900/20"}
+      #title
+      Tools & Integrations
+      #description
+      - Docker Contexts
+      - Docker Desktop
+      - Development Tools
+      - Build Tools
+      - Cloud Integrations
+      ::
     ::
   ::
 
-  ::div{class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6"}
-    ::card{icon="lucide:shield" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-purple-50/50 dark:hover:bg-purple-900/20"}
-    #title
-    Security
-    #description
-    Implement defense-in-depth with container scanning, runtime security, network policies, and RBAC.
+  ::div{class="mt-16"}
+    ::h3{class="text-xl font-semibold mb-6 flex items-center gap-2"}
+      <i class="lucide-ship text-blue-500"></i>
+      Kubernetes Learning Path
     ::
 
-    ::card{icon="lucide:git-merge" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-fuchsia-50/50 dark:hover:bg-fuchsia-900/20"}
-    #title
-    CI/CD Pipelines
-    #description
-    Build automated workflows for container build, test, and deployment with GitHub Actions, Jenkins, or ArgoCD.
-    ::
+    ::div{class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"}
+      ::card{icon="lucide:layers" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
+      #title
+      Core Concepts
+      #description
+      - Architecture & Components
+      - Workload Resources
+      - Networking Fundamentals
+      - Storage Solutions
+      - Configuration & Secrets
+      ::
 
-    ::card{icon="lucide:activity" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-pink-50/50 dark:hover:bg-pink-900/20"}
-    #title
-    Observability
-    #description
-    Implement monitoring, logging, and tracing with Prometheus, Grafana, Loki, and OpenTelemetry.
+      ::card{icon="lucide:shield-check" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
+      #title
+      Security & Monitoring
+      #description
+      - Cloud Native Security
+      - Monitoring & Logging
+      - Policy Management
+      - API Priority & Fairness
+      - Multi-tenancy
+      ::
+
+      ::card{icon="lucide:git-merge" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
+      #title
+      DevOps & GitOps
+      #description
+      - Deployment Strategies
+      - GitOps Workflows
+      - CI/CD Integration
+      - Operators & CRDs
+      - Service Mesh & Ingress
+      ::
+
+      ::card{icon="lucide:database" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
+      #title
+      Stateful Workloads
+      #description
+      - StatefulSets
+      - DaemonSets
+      - Persistent Storage
+      - Database Operations
+      - State Management
+      ::
+
+      ::card{icon="lucide:gauge" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
+      #title
+      Operations & Scale
+      #description
+      - Multi-cluster Management
+      - Autoscaling
+      - Resource Management
+      - Cost Optimization
+      - Backup & Recovery
+      ::
+
+      ::card{icon="lucide:cpu" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:bg-indigo-50/50 dark:hover:bg-indigo-900/20"}
+      #title
+      Advanced Workloads
+      #description
+      - AI/ML Operations
+      - Advanced Scheduling
+      - Job & CronJob Management
+      - Gateway API
+      - Custom Resources
+      ::
     ::
   ::
 ::
