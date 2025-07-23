@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2025-08-20
+
+### Added
+
+#### Docker Section
+- Added Docker Rootless Mode guide covering non-root daemon and container execution for enhanced security
+- Added Docker Compose V2 Advanced Features documentation with comprehensive configuration, scaling, and production optimization techniques
+
+#### Kubernetes Section
+- Added Kubernetes Custom Resource Definitions (CRDs) guide covering API extension, controllers, and operator patterns
+- Added Kubernetes Network Policies documentation for implementing secure cluster communication and micro-segmentation
+
+### Enhanced
+- Added new blog post announcing v2.0.0 release features
+- Introduced major version update with security-focused enhancements
+- Improved documentation with enterprise-grade implementation patterns
+- Added comprehensive examples for secure container deployment
+- Expanded multi-environment deployment strategies
+- Included detailed networking and API extension guidance
+
 ## [1.9.0] - 2025-08-12
 
 ### Added

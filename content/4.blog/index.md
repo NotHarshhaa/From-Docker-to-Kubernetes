@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/10.v1-9
-title: from-docker-to-kubernetes v1.9.0 released!
+to: /blog/11.v2-0
+title: from-docker-to-kubernetes v2.0.0 released!
 ---
 
 #title
@@ -20,6 +20,22 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+  ::card
+  ---
+  img: /blog/v2-0.png
+  to: /blog/v2-0
+  ---
+
+  #title
+  From Docker to Kubernetes v2.0.0 release
+
+  #description
+  Docker Rootless Mode, Compose V2 Advanced Features, Kubernetes CRDs, and Network Policies for advanced security and extensions.
+
+  #footer
+  Aug 20, 2025
+  ::
+
   ::card
   ---
   img: /blog/v1-9.png
