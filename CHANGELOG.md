@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.0] - 2025-09-15
+
+### Added
+
+#### Docker Section
+- Added Docker GPU Acceleration Framework for high-performance computing with multi-vendor support for NVIDIA, AMD, and Intel GPUs
+- Added Docker Content Trust 2.0 for next-generation supply chain security with Notary v2 integration and hardware security module support
+
+#### Kubernetes Section
+- Added Kubernetes Topology Aware Routing for advanced traffic management using zone-aware routing strategies and multi-region failover configurations
+- Added Kubernetes AI/ML Platform Integration for end-to-end framework for deploying and managing AI/ML workloads with distributed training orchestration
+
+### Enhanced
+- Added new blog post announcing v2.1.0 release features
+- Expanded hardware acceleration documentation
+- Improved enterprise security implementations
+- Comprehensive AI/ML deployment examples
+- Advanced multi-region architecture patterns
+
 ## [2.0.0] - 2025-08-20
 
 ### Added
