@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/v2-1
-title: from-docker-to-kubernetes v2.1.0 released!
+to: /blog/v2-2
+title: from-docker-to-kubernetes v2.2.0 released!
 ---
 
 #title
@@ -20,6 +20,72 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+
+  ::card
+  ---
+  img: /blog/v2-2.png
+  to: /blog/v2-2
+  ---
+
+  #title
+  From Docker to Kubernetes v2.2.0 release
+
+  #description
+  Docker Development Workflows, Cache Management, and Kubernetes Ephemeral Containers.
+
+  #footer
+  Sep 23, 2025
+  ::
+
+  ::card
+  ---
+  img: /blog/v2-1.png
+  to: /blog/v2-1
+  ---
+
+  #title
+  From Docker to Kubernetes v2.1.0 release
+
+  #description
+  Docker GPU Acceleration Framework, Content Trust 2.0, Kubernetes Topology Aware Routing, and AI/ML Platform Integration.
+
+  #footer
+  Sep 15, 2025
+  ::
+
+  ::card
+  ---
+  img: /blog/v2-0.png
+  to: /blog/v2-0
+  ---
+
+  #title
+  From Docker to Kubernetes v2.0.0 release
+
+  #description
+  Docker Rootless Mode, Compose V2 Advanced Features, Kubernetes CRDs, and Network Policies for advanced security and extensions.
+
+  #footer
+  Aug 20, 2025
+  ::
+
+  ::card
+  ---
+  img: /blog/v1-9.png
+  to: /blog/v1-9
+  ---
+
+  #title
+  From Docker to Kubernetes v1.9.0 release
+
+  #description
+  Observability platforms, service discovery, secrets management, admission controllers, resource management, and Cluster API.
+
+  #footer
+  Aug 12, 2025
+  ::
+  
+
   ::card
   ---
   img: /blog/v2-1.png
