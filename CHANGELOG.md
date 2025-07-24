@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.0] - 2025-10-05
+
+### Added
+
+#### Docker Section
+- Added Docker Service Discovery DNS for advanced service discovery and DNS management
+- Added Docker Observability Platforms for comprehensive monitoring and tracing solutions
+
+#### Kubernetes Section
+- Added Kubernetes Network Policies for sophisticated network security and access control
+- Added Kubernetes Admission Controllers for advanced security and policy enforcement
+
+### Enhanced
+- Added new blog post announcing v2.3.0 release features
+- Expanded service discovery documentation with practical examples
+- Improved observability implementation patterns
+- Comprehensive network policy guides
+- Advanced admission controller strategies
+- Enhanced security considerations for networking and access control
+
 ## [2.2.0] - 2025-10-01
 
 ### Added

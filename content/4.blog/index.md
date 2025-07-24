@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/v2-2
-title: from-docker-to-kubernetes v2.2.0 released!
+to: /blog/v2-3
+title: from-docker-to-kubernetes v2.3.0 released!
 ---
 
 #title
@@ -23,6 +23,22 @@ Read the latest articles and news about this open source learning platform.
 
   ::card
   ---
+  img: /blog/v2-3.png
+  to: /blog/v2-3
+  ---
+
+  #title
+  From Docker to Kubernetes v2.3.0 release
+
+  #description
+  Docker Service Discovery DNS, Observability Platforms, Kubernetes Network Policies, and Admission Controllers.
+
+  #footer
+  Oct 5, 2025
+  ::
+
+  ::card
+  ---
   img: /blog/v2-2.png
   to: /blog/v2-2
   ---
@@ -31,7 +47,7 @@ Read the latest articles and news about this open source learning platform.
   From Docker to Kubernetes v2.2.0 release
 
   #description
-  Docker Development Workflows, Cache Management, and Kubernetes Ephemeral Containers.
+  Docker Quantum Computing Support, Edge Computing Patterns, Kubernetes Quantum Workload Management, and Edge Computing Integration.
 
   #footer
   Sep 23, 2025
