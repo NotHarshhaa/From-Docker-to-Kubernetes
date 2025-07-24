@@ -8,8 +8,8 @@ icon: lucide:newspaper
 ---
 announcement:
 icon: lucide:newspaper
-to: /blog/v2-3
-title: from-docker-to-kubernetes v2.3.0 released!
+to: /blog/v2-4
+title: from-docker-to-kubernetes v2.4.0 released!
 ---
 
 #title
@@ -20,6 +20,22 @@ Read the latest articles and news about this open source learning platform.
 ::
 
 ::card-group{cols=3}
+
+  ::card
+  ---
+  img: /blog/v2-4.png
+  to: /blog/v2-4
+  ---
+
+  #title
+  From Docker to Kubernetes v2.4.0 release
+
+  #description
+  Docker Secrets Management, Resource Management, Kubernetes Resource Requests & Limits, and Cluster API.
+
+  #footer
+  Oct 15, 2025
+  ::
 
   ::card
   ---

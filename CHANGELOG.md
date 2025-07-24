@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.0] - 2025-10-15
+
+### Added
+
+#### Docker Section
+- Added Docker Secrets Management for secure storage and distribution of sensitive information
+- Added Docker Resource Management for comprehensive resource control and optimization
+
+#### Kubernetes Section
+- Added Kubernetes Resource Requests & Limits for sophisticated resource management
+- Added Kubernetes Cluster API for declarative cluster lifecycle management
+
+### Enhanced
+- Added new blog post announcing v2.4.0 release features
+- Expanded secrets management documentation with security best practices
+- Improved resource management implementation patterns
+- Comprehensive resource optimization guides
+- Advanced cluster management strategies
+- Enhanced operational best practices
+
 ## [2.3.0] - 2025-10-05
 
 ### Added
