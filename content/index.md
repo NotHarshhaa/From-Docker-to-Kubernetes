@@ -483,3 +483,96 @@ From Docker basics to Kubernetes production deployments, we've got you covered w
     ::
   ::
 ::
+
+::div{class="my-12 py-8 bg-gradient-to-r from-violet-50/80 to-purple-50/80 dark:from-violet-950/30 dark:to-purple-950/30 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300"}
+  ::div{class="text-center mb-8"}
+    ::h2{class="flex items-center justify-center gap-2 text-xl font-bold"}
+      <i class="lucide-users text-violet-600 dark:text-violet-400 animate-float"></i>
+      Meet the Team
+    ::
+    ::p{class="mt-2 text-gray-600 dark:text-gray-400"}
+      Meet the passionate individuals behind this learning platform
+    ::
+  ::
+
+  ::div{class="max-w-3xl mx-auto px-4"}
+    ::div{class="bg-white/80 dark:bg-gray-800/50 backdrop-blur-sm rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1"}
+      ::div{class="flex flex-col md:flex-row items-center gap-6"}
+        ::div{class="relative group"}
+          ::div{class="relative rounded-full overflow-hidden ring-4 ring-violet-200 dark:ring-violet-700 shadow-lg transition-transform duration-300 group-hover:scale-105"}
+            ::img{src="https://www.github.com/NotHarshhaa.png" class="w-32 h-32 object-cover"}
+          ::
+        ::
+
+        ::div{class="flex-1 text-center md:text-left"}
+          ::h3{class="text-2xl font-bold mb-2 bg-gradient-to-r from-violet-600 to-purple-600 bg-clip-text text-transparent"}
+            H A R S H H A A
+          ::
+          ::div{class="text-lg font-medium text-violet-600 dark:text-violet-400 mb-3"}
+            Creator & DevOps Enthusiast
+          ::
+          ::p{class="text-gray-600 dark:text-gray-400 mb-4"}
+            Passionate about empowering developers with modern container technologies and cloud-native practices.
+          ::
+          ::div{class="flex items-center justify-center md:justify-start gap-4"}
+            ::a{href="https://github.com/NotHarshhaa" target="_blank" class="text-gray-600 dark:text-gray-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors duration-300"}
+              <i class="lucide-github w-6 h-6"></i>
+            ::
+            ::a{href="https://linkedin.com/in/NotHarshhaa" target="_blank" class="text-gray-600 dark:text-gray-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors duration-300"}
+              <i class="lucide-linkedin w-6 h-6"></i>
+            ::
+            ::a{href="https://twitter.com/NotHarshhaa" target="_blank" class="text-gray-600 dark:text-gray-400 hover:text-violet-600 dark:hover:text-violet-400 transition-colors duration-300"}
+              <i class="lucide-twitter w-6 h-6"></i>
+            ::
+          ::
+        ::
+      ::
+
+      ::div{class="mt-8 grid grid-cols-3 gap-6 sm:grid-cols-3 sm:gap-6 grid-cols-1 gap-4"}
+        ::div{class="group relative overflow-hidden rounded-xl bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 p-4 sm:p-6 transition-all duration-300 hover:shadow-lg"}
+          ::div{class="absolute -right-3 -top-3 sm:-right-6 sm:-top-6 opacity-10 transition-all duration-300 group-hover:opacity-20"}
+            ::img{src="/logo-dark.svg" class="h-16 w-16 sm:h-24 sm:w-24 rotate-12"}
+          ::
+          ::div{class="relative"}
+            ::div{class="font-bold text-blue-600 dark:text-blue-400 mb-1 text-base sm:text-lg"}
+              Docker
+            ::
+            ::div{class="text-xs sm:text-sm text-gray-600 dark:text-gray-400"}
+              Expert
+            ::
+          ::
+        ::
+
+        ::div{class="group relative overflow-hidden rounded-xl bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-blue-900/20 dark:to-indigo-800/20 p-4 sm:p-6 transition-all duration-300 hover:shadow-lg"}
+          ::div{class="absolute -right-3 -top-3 sm:-right-6 sm:-top-6 opacity-10 transition-all duration-300 group-hover:opacity-20"}
+            ::img{src="/logo-dark.svg" class="h-16 w-16 sm:h-24 sm:w-24 rotate-12"}
+          ::
+          ::div{class="relative"}
+            ::div{class="flex items-center gap-1 sm:gap-2 font-bold text-blue-600 dark:text-blue-400 mb-1 text-base sm:text-lg"}
+              <i class="lucide-kubernetes w-4 h-4 sm:w-5 sm:h-5"></i>
+              Kubernetes
+            ::
+            ::div{class="flex items-center gap-1 sm:gap-2 text-xs sm:text-sm text-gray-600 dark:text-gray-400"}
+              <i class="lucide-shield-check w-3 h-3 sm:w-4 sm:h-4"></i>
+              Specialist
+            ::
+          ::
+        ::
+
+        ::div{class="group relative overflow-hidden rounded-xl bg-gradient-to-br from-indigo-50 to-violet-100 dark:from-indigo-900/20 dark:to-violet-800/20 p-4 sm:p-6 transition-all duration-300 hover:shadow-lg"}
+          ::div{class="absolute -right-3 -top-3 sm:-right-6 sm:-top-6 opacity-10 transition-all duration-300 group-hover:opacity-20"}
+            ::img{src="/banner.png" class="h-16 w-16 sm:h-24 sm:w-24 rotate-12"}
+          ::
+          ::div{class="relative"}
+            ::div{class="font-bold text-indigo-600 dark:text-indigo-400 mb-1 text-base sm:text-lg"}
+              DevOps
+            ::
+            ::div{class="text-xs sm:text-sm text-gray-600 dark:text-gray-400"}
+              Enthusiast
+            ::
+          ::
+        ::
+      ::
+    ::
+  ::
+::
