@@ -70,6 +70,25 @@ export default defineAppConfig({
           ],
         },
         {
+          title: "Tools",
+          links: [
+            {
+              title: "Dockerfile Generator",
+              to: "/tools/dockerfile-generator",
+              description:
+                "Interactive multi-stage Dockerfile and Docker Compose builder with security hardening.",
+              icon: "lucide:box",
+            },
+            {
+              title: "CLI Cheat Sheet",
+              to: "/tools/cheat-sheet",
+              description:
+                "Interactive kubectl, docker, and compose command explorer with live variable substitution.",
+              icon: "lucide:terminal",
+            },
+          ],
+        },
+        {
           title: "Community",
           links: [
             {

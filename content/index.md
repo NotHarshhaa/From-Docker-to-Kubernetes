@@ -424,6 +424,24 @@ spec:
         ::
       ::
     ::
+
+    ::div{label="Interactive Tools" icon="lucide:wrench"}
+      ::div{class="grid grid-cols-1 md:grid-cols-2 gap-5 my-4"}
+        ::card{icon="lucide:box" to="/tools/dockerfile-generator" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg border border-blue-100 dark:border-blue-900/60 hover:border-blue-400 dark:hover:border-blue-600"}
+        #title
+        Dockerfile & Compose Generator
+        #description
+        Interactive visual builder for hardened, multi-stage Dockerfiles across Node.js, Python, Go, Rust, Java, and Nginx with live code preview & 1-click downloads.
+        ::
+
+        ::card{icon="lucide:terminal" to="/tools/cheat-sheet" class="group transition-all duration-300 hover:-translate-y-1 hover:shadow-lg border border-emerald-100 dark:border-emerald-900/60 hover:border-emerald-400 dark:hover:border-emerald-600"}
+        #title
+        Kubectl & Docker CLI Cheat Sheet
+        #description
+        Searchable command explorer with real-time variable substitution for namespaces, pods, and containers, safety level indicators, and flag breakdowns.
+        ::
+      ::
+    ::
   ::
 ::
 
