@@ -211,7 +211,7 @@ spec:
     ::badge{variant="outline" class="mb-2 px-3 py-1 text-sm font-semibold text-blue-600 dark:text-blue-400 border-blue-200 dark:border-blue-800"}
       Interactive Curriculum
     ::
-    ::h2{class="text-2xl sm:text-3xl font-extrabold tracking-tight"}
+    ::div{class="text-2xl sm:text-3xl font-extrabold tracking-tight"}
       Explore the Comprehensive Curriculum
     ::
     ::p{class="mt-2 text-muted-foreground"}
@@ -535,38 +535,16 @@ spec:
   ::
 ::
 
-::div{class="my-16 bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 text-white p-8 sm:p-12 rounded-3xl text-center shadow-2xl relative overflow-hidden"}
-  ::div{class="relative z-10 max-w-3xl mx-auto"}
-    ::badge{variant="outline" class="mb-4 px-3 py-1 text-sm font-medium border-white/30 text-white bg-white/10"}
-      Ready to Begin?
-    ::
-    ::h2{class="text-3xl sm:text-4xl font-extrabold tracking-tight text-white"}
-      Level Up Your Container & Kubernetes Skills
-    ::
-    ::p{class="mt-4 text-blue-100 text-lg sm:text-xl"}
-      Start your journey from container basics to production-ready Kubernetes mastery today. Everything is open source and completely free.
-    ::
-
-    ::div{class="mt-8 flex flex-wrap justify-center gap-4"}
-      ::button-link{to="/getting-started/introduction" variant="secondary" size="lg" leftIcon="lucide:rocket" class="font-semibold shadow-lg"}
-        Get Started Now
-      ::
-      ::button-link{to="/learn-docker/docker/containers" variant="outline" size="lg" leftIcon="lucide:box" class="font-semibold bg-white/10 text-white border-white/40 hover:bg-white/20"}
-        Start with Docker
-      ::
-      ::button-link{to="/learn-kubernetes/kubernetes/architecture" variant="outline" size="lg" leftIcon="lucide:ship-wheel" class="font-semibold bg-white/10 text-white border-white/40 hover:bg-white/20"}
-        Explore Kubernetes
-      ::
-    ::
-  ::
+::cta-banner
 ::
+
 
 ::div{class="my-16 py-10 px-6 sm:px-8 bg-gradient-to-r from-amber-50/70 to-orange-50/70 dark:from-amber-950/20 dark:to-orange-950/20 border border-amber-100 dark:border-amber-900/40 rounded-2xl shadow-sm"}
   ::div{class="text-center max-w-2xl mx-auto mb-8"}
     ::badge{variant="outline" class="mb-2 px-3 py-1 text-sm font-semibold text-amber-600 dark:text-amber-400 border-amber-200 dark:border-amber-800"}
       Open Community
     ::
-    ::h2{class="text-2xl sm:text-3xl font-extrabold tracking-tight"}
+    ::div{class="text-2xl sm:text-3xl font-extrabold tracking-tight"}
       Community, Contributions & Support
     ::
     ::p{class="mt-2 text-muted-foreground"}
@@ -603,7 +581,7 @@ spec:
     ::badge{variant="outline" class="mb-2 px-3 py-1 text-sm font-semibold text-violet-600 dark:text-violet-400 border-violet-200 dark:border-violet-800"}
       Author & Maintainer
     ::
-    ::h2{class="text-2xl sm:text-3xl font-extrabold tracking-tight"}
+    ::div{class="text-2xl sm:text-3xl font-extrabold tracking-tight"}
       Meet the Creator
     ::
     ::p{class="mt-2 text-muted-foreground"}

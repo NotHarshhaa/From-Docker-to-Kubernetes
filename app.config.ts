@@ -29,6 +29,9 @@ export default defineAppConfig({
     header: {
       title: "From Docker to Kubernetes",
       showTitle: true,
+      border: true,
+      showTitleInMobile: true,
+      showLoadingIndicator: true,
       logo: {
         light: "/logo.svg",
         dark: "/logo-dark.svg",
@@ -63,6 +66,32 @@ export default defineAppConfig({
               description:
                 "Explore all about Kubernetes. From basic to advanced. From single node to multi-node applications.",
               icon: "lucide:ship-wheel",
+            },
+          ],
+        },
+        {
+          title: "Community",
+          links: [
+            {
+              title: "GitHub Repository",
+              to: "https://github.com/NotHarshhaa/from-docker-to-kubernetes",
+              description: "Star the project, report issues, and contribute pull requests.",
+              icon: "lucide:github",
+              target: "_blank",
+            },
+            {
+              title: "Telegram Channel",
+              to: "https://t.me/NotHarshhaa",
+              description: "Join discussions and stay updated with new guides.",
+              icon: "lucide:message-circle",
+              target: "_blank",
+            },
+            {
+              title: "Support on Ko-fi",
+              to: "https://ko-fi.com/NotHarshhaa",
+              description: "Support ongoing curriculum maintenance and updates.",
+              icon: "lucide:coffee",
+              target: "_blank",
             },
           ],
         },
