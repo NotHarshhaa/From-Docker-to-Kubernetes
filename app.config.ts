@@ -1,9 +1,9 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: "from-docker-to-kubernetes",
+      name: "From Docker to Kubernetes",
       description:
-        "A hands-on learning open source learning platform to help you master containerization and orchestration with Docker to Kubernetes.",
+        "A hands-on open-source curriculum to master containerization and production orchestration with Docker and Kubernetes.",
       ogImage: "/hero.png",
       ogImageComponent: "ShadcnDocs",
       ogImageColor: "light",
@@ -21,13 +21,13 @@ export default defineAppConfig({
     banner: {
       enable: true,
       showClose: true,
-      content: "Welcome to **from-docker-to-kubernetes**",
-      to: "https://github.com/NotHarshhaa/from-docker-to-kubernetes",
-      target: "_blank",
+      content: "🚀 **v2.4.0 is live!** Explore 80+ production guides for Docker & Kubernetes →",
+      to: "/blog/v2-4",
+      target: "_self",
       border: true,
     },
     header: {
-      title: "from-docker-to-kubernetes",
+      title: "From Docker to Kubernetes",
       showTitle: true,
       logo: {
         light: "/logo.svg",
