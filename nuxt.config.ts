@@ -22,6 +22,9 @@ export default defineNuxtConfig({
   },
   // Vercel Zero-Delay Edge & Prerender Strategy
   routeRules: {
+    '/getting-started': { redirect: { to: '/getting-started/introduction', statusCode: 302 } },
+    '/learn-docker': { redirect: { to: '/learn-docker/docker/containers', statusCode: 302 } },
+    '/learn-kubernetes': { redirect: { to: '/learn-kubernetes/kubernetes/architecture', statusCode: 302 } },
     '/': { isr: 86400, prerender: isVercel },
     '/getting-started/**': { isr: 86400, prerender: isVercel },
     '/learn-docker/**': { isr: 86400, prerender: isVercel },
